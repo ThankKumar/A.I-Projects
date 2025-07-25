@@ -1,7 +1,4 @@
-//Install all libraries 
-//First, upload the Standard Format  code in Arduino Uno and keep the proper connection
-//After changing the same port in the Python file and running the Python code 
-//controlled the LED
+
   # import speech_recognition as sr
 # from pyfirmata import Arduino, util
 # import time
